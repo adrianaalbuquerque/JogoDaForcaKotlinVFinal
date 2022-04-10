@@ -10,8 +10,8 @@ class Fachada {
 
     fun Padrao() {
         this.banquitoPalavras.adiciona("Casa", "Moradia")
-        this.banquitoPalavras.adiciona("Bola", "Redondezas")
-        this.banquitoPalavras.adiciona("Moto", "Onde Manuca voa")
+        this.banquitoPalavras.adiciona("Bola", "É redondo")
+        this.banquitoPalavras.adiciona("Escova", "Higiene bucal")
     }
 
     fun start() {
